@@ -74,13 +74,6 @@
   </url>
   
   <url>
-    <loc>https://username.github.io/tags/Linkedlist-Dummyhead-TwoSum/</loc>
-    <lastmod>2021-04-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://username.github.io/tags/Sliding-window-Hashtable-Heap/</loc>
     <lastmod>2021-04-26</lastmod>
     <changefreq>daily</changefreq>
@@ -88,7 +81,7 @@
   </url>
   
   <url>
-    <loc>https://username.github.io/tags/Optimization-Machine-Learning/</loc>
+    <loc>https://username.github.io/tags/Linkedlist-Dummyhead-TwoSum/</loc>
     <lastmod>2021-04-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -96,6 +89,13 @@
   
   <url>
     <loc>https://username.github.io/tags/InOrder-BinaryTree-Recursive/</loc>
+    <lastmod>2021-04-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://username.github.io/tags/Optimization-Machine-Learning/</loc>
     <lastmod>2021-04-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
